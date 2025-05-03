@@ -1,0 +1,2 @@
+# instaladorwhatsgold
+instalador
